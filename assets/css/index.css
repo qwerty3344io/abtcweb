@@ -502,7 +502,7 @@ a:hover {
   background-size: cover; 
   background-repeat: no-repeat; 
   justify-content: center;
-  background-image: url('assets/img/Footerimg.png');
+  background-image: url('/assets/img/Footerimg.png');
   
 }
 
@@ -926,4 +926,5 @@ text-decoration: none;
   stroke: #fff;
 }
 /* อ่านรายละเอียดเพิ่มเติม */
+
 
