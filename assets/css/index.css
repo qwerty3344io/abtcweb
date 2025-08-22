@@ -103,7 +103,7 @@ a:hover {
   gap: 48px;
 }
 .main-hero {
-  background: url('assets/img/Bg\ 1.png') no-repeat center/cover;
+  background: url('/assets/img/Bg\ 1.png') no-repeat center/cover;
   border-radius: 0px; /* ถ้าต้องการขอบมน */
 }
 .hero-left {
@@ -926,3 +926,4 @@ text-decoration: none;
   stroke: #fff;
 }
 /* อ่านรายละเอียดเพิ่มเติม */
+
