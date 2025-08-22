@@ -95,7 +95,7 @@ a:hover {
 }
 
 .main-hero {
-  background: url('assets/img/Bg4.jpg') no-repeat center/cover;
+  background: url('/assets/img/Bg4.jpg') no-repeat center/cover;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
@@ -724,4 +724,5 @@ text-decoration: none;
   font-weight: bold;
   text-decoration: none;
 }
+
  
